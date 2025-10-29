@@ -1,4 +1,3 @@
-EventEaseApp
 EventEaseApp es una aplicación web desarrollada con Blazor para la gestión de eventos corporativos y sociales. Permite a los usuarios explorar eventos, registrarse fácilmente y a los organizadores monitorear la asistencia en tiempo real.
 
 Características principales
